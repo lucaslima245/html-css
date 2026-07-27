@@ -1,0 +1,32 @@
+body{
+    background-color: #84e1ad;
+
+}
+
+header{
+    background-image: linear-gradient(to bottom, hsl(146, 69%, 55%) ,#164c2f);
+    height:120px;
+    text-align:center;
+    color: white;
+    padding: 1px 10px 10px 10px;
+}
+
+a:hover{
+    background-color: #289457;
+    color : rgb(255, 255, 255);
+
+ }
+nav > a{
+    color: white;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+
+}
+main{
+    background-color: white;
+    width: 900px;
+    margin:auto;
+    padding: 3px 10px 10px 10px;
+
+}
