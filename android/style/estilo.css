@@ -65,8 +65,6 @@
 
     }
 
-    
-    
     nav {
         background-color: var(--cor5);
         box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.435);
@@ -74,7 +72,6 @@
         text-align: center;
         text-shadow: 2px 2px rgba(0, 0, 0, 0.469);
     }
-
     nav a:hover{
         background-color: var(--cor3);
         transition-duration: 0.6s;
